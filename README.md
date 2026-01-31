@@ -1,6 +1,6 @@
 # Pottery-Hub-UXUI-Prototype
 
-Pottery Hub is a modern, responsive website designed for pottery enthusiasts. Users can explore various pottery products, learn pottery techniques, and get inspired by unique creations.
+Pottery Hub is a **UX/UI prototype** of a pottery-focused website. The goal of this project was to create a **visually appealing and user-friendly interface**, following UX/UI principles, focusing on layout, design consistency, and interactive elements without backend functionality. 
 
 ## Features
 - Browse pottery collections by category
